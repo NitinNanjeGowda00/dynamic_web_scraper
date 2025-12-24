@@ -79,7 +79,7 @@ dynamic_web_scraper/
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/nitingowdaroan-alt/dynamic_web_scraper.git
+   git clone https://github.com/NitinNanjeGowda00/dynamic_web_scraper.git
    cd dynamic_web_scraper
 ```
 
